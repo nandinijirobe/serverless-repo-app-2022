@@ -15,4 +15,4 @@ function running_late(date){
 
 // someDate = Date('December 17, 1995 23:24:00');
 // console.log(running_late('December 17, 1995 23:24:00'));
-exports.running_late = running_late
+exports.running_late = running_late;
