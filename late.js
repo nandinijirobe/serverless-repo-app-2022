@@ -11,6 +11,6 @@ function running_late(date){
     }
 } 
 
-someDate = new Date('December 17, 1995 23:24:00');
+// someDate = new Date('December 17, 1995 23:24:00');
 // console.log(running_late(someDate));
-module.exports = running_late
+exports.running_late = running_late
